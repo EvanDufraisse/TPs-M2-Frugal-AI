@@ -13,4 +13,4 @@ Practical Session 2:
 1-bis. Here the link to the corresponding Google Colab https://colab.research.google.com/drive/1vyMgbJ41KcKLqX6QRaWDQoynZ5_dCcgu?usp=sharing
 
 2. Download datasets
-Link to ressources https://drive.google.com/drive/folders/1jX4omja8UBcX3MNupX2rLmUJkzR9RhM6?usp=drive_link
+Link to ressources https://drive.google.com/drive/folders/1jX4omja8UBcX3MNupX2rLmUJkzR9RhM6?usp=sharing
